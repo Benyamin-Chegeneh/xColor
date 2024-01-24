@@ -1,2 +1,2 @@
 # xColor
-xColor is a Get Hex code Color app and created by C#
+xColor is a Get Hex code and RGB app and created by C#
